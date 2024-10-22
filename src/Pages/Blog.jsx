@@ -47,7 +47,7 @@ const Blog = () => {
           </div>
 
           
-          <div className="bg-white rounded-lg shadow-md overflow-hidden">
+          {/* <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <div className="h-56 bg-gray-200">
               <img src="https://th.bing.com/th/id/R.7e963fb4eb81e4d97faac7b5e182b59d?rik=VKCw8e11L9SyGw&riu=http%3a%2f%2fwww.thehistoryhub.com%2fwp-content%2fuploads%2f2014%2f10%2fGreat-Pyramid-of-Giza-Images.jpg&ehk=I42M50edxNl48kUbAwyVgaygN9qf3l9KNwHMw4ySrts%3d&risl=&pid=ImgRaw&r=0" alt="Pyramids of Giza" className="w-full h-full object-cover" />
             </div>
@@ -56,7 +56,7 @@ const Blog = () => {
               <p className="mt-4 text-gray-600">
                 These ancient pyramids in Egypt are some of the oldest and most remarkable architectural feats in human history.
               </p>
-              <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
+              <a href="/blog-one" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
           </div>
 
@@ -70,7 +70,7 @@ const Blog = () => {
               <p className="mt-4 text-gray-600">
                 One of the most famous landmarks in the world, the Eiffel Tower stands as a symbol of love and elegance in the heart of Paris.
               </p>
-              <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
+              <a href="/blog-one" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
           </div>
 
@@ -84,7 +84,7 @@ const Blog = () => {
               <p className="mt-4 text-gray-600">
                 Located in Kuala Lumpur, these twin skyscrapers represent the architectural brilliance and modernity of Malaysia.
               </p>
-              <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
+              <a href="/blog-one" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
           </div>
 
@@ -114,7 +114,7 @@ const Blog = () => {
               </p>
               <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
