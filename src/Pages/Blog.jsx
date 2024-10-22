@@ -56,7 +56,7 @@ const Blog = () => {
               <p className="mt-4 text-gray-600">
                 These ancient pyramids in Egypt are some of the oldest and most remarkable architectural feats in human history.
               </p>
-              <a className="text-blue-500 hover:underline mt-4 block">Read More →</a>
+              <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
           </div>
 
@@ -70,7 +70,7 @@ const Blog = () => {
               <p className="mt-4 text-gray-600">
                 One of the most famous landmarks in the world, the Eiffel Tower stands as a symbol of love and elegance in the heart of Paris.
               </p>
-              <a className="text-blue-500 hover:underline mt-4 block">Read More →</a>
+              <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
           </div>
 
@@ -84,7 +84,7 @@ const Blog = () => {
               <p className="mt-4 text-gray-600">
                 Located in Kuala Lumpur, these twin skyscrapers represent the architectural brilliance and modernity of Malaysia.
               </p>
-              <a className="text-blue-500 hover:underline mt-4 block">Read More →</a>
+              <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
           </div>
 
@@ -98,7 +98,7 @@ const Blog = () => {
               <p className="mt-4 text-gray-600">
                 Built by Mughal Emperor Shah Jahan, the Taj Mahal is a symbol of eternal love and one of the most beautiful structures in the world.
               </p>
-              <a className="text-blue-500 hover:underline mt-4 block">Read More →</a>
+              <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
           </div>
 
@@ -112,7 +112,7 @@ const Blog = () => {
               <p className="mt-4 text-gray-600">
                 A gift from France, the Statue of Liberty stands tall in New York as a symbol of freedom and democracy.
               </p>
-              <a className="text-blue-500 hover:underline mt-4 block">Read More →</a>
+              <a href="" className="text-blue-500 hover:underline mt-4 block">Read More →</a>
             </div>
           </div>
         </div>
